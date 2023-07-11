@@ -1,1 +1,1 @@
-# git_test2
+this is the readme file for the github repo Gittest2
